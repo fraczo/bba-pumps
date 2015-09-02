@@ -1,0 +1,5 @@
+C:\_GitHub\bba\EventReceivers\bin\Debug\EventReceivers.dll
+C:\_GitHub\bba\EventReceivers\bin\Debug\EventReceivers.pdb
+C:\_GitHub\bba\EventReceivers\obj\Debug\EventReceivers.dll
+C:\_GitHub\bba\EventReceivers\obj\Debug\EventReceivers.pdb
+C:\_GitHub\bba\EventReceivers\obj\Debug\EventReceivers.csprojResolveAssemblyReference.cache

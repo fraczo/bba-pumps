@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="5b711455-43a2-4bf1-abdf-68c1d44500a5" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="STAFix24.bba.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="EventReceivers.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="bba_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>

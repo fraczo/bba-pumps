@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="EventReceivers Feature1" Id="f2233bec-e31e-4ad0-b301-826f11877cdf" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="tabOfertyHandlowe\Elements.xml" />
+  </ElementManifests>
+</Feature>

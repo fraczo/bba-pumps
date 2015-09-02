@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Receivers ListUrl="Lists/tabOfertyHandlowe">
+      <Receiver>
+        <Name>tabOfertyHandloweItemAdded</Name>
+        <Type>ItemAdded</Type>
+        <Assembly>EventReceivers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c509fd7101c3ed1</Assembly>
+        <Class>EventReceivers.tabOfertyHandlowe.tabOfertyHandlowe</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+      <Receiver>
+        <Name>tabOfertyHandloweItemUpdated</Name>
+        <Type>ItemUpdated</Type>
+        <Assembly>EventReceivers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=7c509fd7101c3ed1</Assembly>
+        <Class>EventReceivers.tabOfertyHandlowe.tabOfertyHandlowe</Class>
+        <SequenceNumber>10000</SequenceNumber>
+      </Receiver>
+
+  </Receivers>
+</Elements>

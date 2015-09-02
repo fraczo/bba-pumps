@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="STAFix24.bba EventReceivers" Id="9da4e15d-76cb-435c-b5ff-0f42059abd20" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="tabOfertyHandlowe\Elements.xml" />
+  </ElementManifests>
+</Feature>
