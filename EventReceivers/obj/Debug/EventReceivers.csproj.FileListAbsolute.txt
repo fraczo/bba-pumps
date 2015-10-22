@@ -5,6 +5,5 @@ C:\_GitHub\bba\EventReceivers\obj\Debug\EventReceivers.pdb
 C:\_GitHub\bba\EventReceivers\obj\Debug\EventReceivers.csprojResolveAssemblyReference.cache
 C:\_GitHub\bba-pumps\EventReceivers\bin\Debug\EventReceivers.dll
 C:\_GitHub\bba-pumps\EventReceivers\bin\Debug\EventReceivers.pdb
-C:\_GitHub\bba-pumps\EventReceivers\obj\Debug\EventReceivers.csprojResolveAssemblyReference.cache
 C:\_GitHub\bba-pumps\EventReceivers\obj\Debug\EventReceivers.dll
 C:\_GitHub\bba-pumps\EventReceivers\obj\Debug\EventReceivers.pdb

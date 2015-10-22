@@ -3,3 +3,8 @@ C:\_GitHub\bba\bba\bin\Debug\STAFix24.bba.dll
 C:\_GitHub\bba\bba\bin\Debug\STAFix24.bba.pdb
 C:\_GitHub\bba\bba\obj\Debug\STAFix24.bba.dll
 C:\_GitHub\bba\bba\obj\Debug\STAFix24.bba.pdb
+C:\_GitHub\bba-pumps\bba\bin\Debug\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\bin\Debug\STAFix24.bba.pdb
+C:\_GitHub\bba-pumps\bba\obj\Debug\bba.csprojResolveAssemblyReference.cache
+C:\_GitHub\bba-pumps\bba\obj\Debug\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\obj\Debug\STAFix24.bba.pdb

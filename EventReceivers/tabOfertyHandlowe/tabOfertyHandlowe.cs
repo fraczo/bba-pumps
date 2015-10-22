@@ -23,8 +23,12 @@ namespace EventReceivers.tabOfertyHandlowe
 
             try
             {
-
                 SPListItem item = properties.ListItem;
+
+                // TODO: nie wiem czy nie trzeba zintegrować procesu wysyłki oferty z SPD i kopiowania pliku
+
+                //diag
+                ElasticMail.SendTestEmail("tabOfertyHandloweER" + DateTime.Now.ToString(), item["colStatus"]!=null?"Status:"+item["colStatus"].ToString():string.Empty);
 
                 if (item["colStatus"] != null && item["colStatus"].ToString().Equals("Wysłana"))
                 {
