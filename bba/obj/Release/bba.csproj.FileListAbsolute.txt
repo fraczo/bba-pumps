@@ -2,3 +2,8 @@ C:\_GitHub\bba\bba\bin\Release\STAFix24.bba.dll
 C:\_GitHub\bba\bba\bin\Release\STAFix24.bba.pdb
 C:\_GitHub\bba\bba\obj\Release\STAFix24.bba.dll
 C:\_GitHub\bba\bba\obj\Release\STAFix24.bba.pdb
+C:\_GitHub\bba-pumps\bba\bin\Release\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\bin\Release\STAFix24.bba.pdb
+C:\_GitHub\bba-pumps\bba\obj\Release\bba.csprojResolveAssemblyReference.cache
+C:\_GitHub\bba-pumps\bba\obj\Release\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\obj\Release\STAFix24.bba.pdb

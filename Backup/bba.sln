@@ -1,10 +1,10 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bba", "bba\bba.csproj", "{068497E1-9A3A-4437-94A1-49C23854774B}"
 	ProjectSection(ProjectDependencies) = postProject
+		{2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1} = {2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1}
+		{2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1} = {2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1}
 		{2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1} = {2DFE1FAE-CF44-433F-8405-2D7EAABA8DF1}
 	EndProjectSection
 EndProject
