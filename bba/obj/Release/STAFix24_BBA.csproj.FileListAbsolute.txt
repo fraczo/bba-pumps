@@ -1,0 +1,4 @@
+C:\_GitHub\bba-pumps\bba\bin\Release\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\bin\Release\STAFix24.bba.pdb
+C:\_GitHub\bba-pumps\bba\obj\Release\STAFix24.bba.dll
+C:\_GitHub\bba-pumps\bba\obj\Release\STAFix24.bba.pdb

@@ -5,6 +5,6 @@
     <Assembly Location="EventReceivers.dll" DeploymentTarget="GlobalAssemblyCache" />
   </Assemblies>
   <FeatureManifests>
-    <FeatureManifest Location="bba_Feature1\Feature.xml" />
+    <FeatureManifest Location="STAFix24_BBA_EventReceivers\Feature.xml" />
   </FeatureManifests>
 </Solution>
